@@ -42,7 +42,7 @@ Após concluir o desafio, a página apresenta a seguinte estrutura:
 - **Grade de vídeos:** Exibição dinâmica e responsiva dos vídeos recomendados.  
 
 Confira o resultado final do projeto:  
-🔗 [Resultado Final]()  
+🔗 [Resultado Final](https://nicolyjjang.github.io/youtube-2/)  
 
 ---
 ## 📸 Imagens do Projeto
