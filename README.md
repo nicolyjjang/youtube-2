@@ -47,11 +47,3 @@ Confira o resultado final do projeto:
 ---
 ## 📸 Imagens do Projeto
 [Desktop](./src/assets/images/screenshot-desktop.png)
-
----
-
-## 📌 Dicas para o Desafio  
-
-- Utilize **CSS Grid** para estruturar a grade de vídeos de forma responsiva.  
-- Combine **Grid Layout** e **Flexbox** para organizar os elementos de maneira eficiente.  
-- Teste o design em diferentes dispositivos para garantir uma boa experiência de usuário.  
